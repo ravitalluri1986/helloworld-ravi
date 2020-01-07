@@ -1,2 +1,2 @@
 # helloworld-ravi
-Exploring the Github
+Exploring the Github by creating the repository, branches, commiting the changes.
